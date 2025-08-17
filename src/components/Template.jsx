@@ -1,6 +1,5 @@
 import React from 'react';
 import { Plus, Circle, CheckCircle, Trash2, Edit3 } from 'lucide-react';
-import AuthSphere from './AuthSphere';
 
 export default function Template() {
 

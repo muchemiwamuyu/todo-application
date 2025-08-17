@@ -1,10 +1,10 @@
 import React from 'react'
-import Template from '../components/Template'
+import DevTodoApp from '../components/DevTodo'
 
 function Home() {
   return (
     <div>
-        <Template/>
+      <DevTodoApp />
     </div>
   )
 }
